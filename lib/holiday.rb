@@ -94,7 +94,7 @@ def all_holidays_with_bbq(holiday_hash)
    value1.each do |key2, value2|
      value2.each do |element|
        if element == "BBQ"
-         
+         keys_with_bbq_arr.push(key2)
      end
    end
    
