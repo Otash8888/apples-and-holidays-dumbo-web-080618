@@ -97,7 +97,7 @@ def all_holidays_with_bbq(holiday_hash)
          keys_with_bbq_arr.push(key2)
      end
    end
-   
+  keys_with_bbq_arr 
  end
 end
 
