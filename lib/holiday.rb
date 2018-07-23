@@ -92,7 +92,9 @@ def all_holidays_with_bbq(holiday_hash)
   keys_with_bbq_arr = []
  holiday_hash.each do |key1,value1|
    value1.each do |key2, value2|
-     
+     value2.each do |element|
+       
+     end
    end
    
  end
